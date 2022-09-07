@@ -1,1 +1,1 @@
-# Solwordle
+# Solword
